@@ -1,6 +1,18 @@
 # wtm2wpm
 Given a Weighted Terms Maximum Satisfiability (WTM) problem instance, 
 compute its Weighted Partial Maximum Satisfiability (WPM) problem instance.
+Examples are in directory *examples*.
+
+## How to use it?
+
+### Compile
+To compile the program, run
+```
+make
+
+### Run
+
+`produce`*`path_to_WTM_file`*`path_to_WPM_file`*
 
 ## Versioning
 

@@ -9,6 +9,7 @@ Examples are in directory *examples*.
 To compile the program, run
 ```
 make
+```
 
 ### Run
 

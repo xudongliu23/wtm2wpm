@@ -13,7 +13,7 @@ make
 
 ### Run
 
-`produce`*`path_to_WTM_file`**`path_to_WPM_file`*
+`produce`*`path_to_WTM_file path_to_WPM_file`*
 
 ## Versioning
 
